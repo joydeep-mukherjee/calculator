@@ -1,6 +1,6 @@
 /* Basic Calculator application
  * Can operate only on integer input
- * Can operate only on two inputs and not more
+ * Can operate only on two inputs
  */
 
 
